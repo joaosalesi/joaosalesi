@@ -92,7 +92,7 @@ Ambos os cursos estão em andamento, reforçando meu compromisso em evoluir cons
   <img align="center" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Imagem">
 </p>
 
-## 🔥 Skills
+## 🔥 Skills em desenvolvimento
 
 <p align="left">Programming Languages</p>
 
