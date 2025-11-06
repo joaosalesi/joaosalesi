@@ -8,56 +8,76 @@
 
 <!-- Presentation -->
 
-<p align="left">👋 Olá, eu sou o João Phelipe Salesi Alvim!<br>
+### 👋 Olá, eu sou o João Phelipe Salesi Alvim!<br>
   
   Sou do Brasil e estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
   
-  - 💻 Meu objetivo é me tornar um Desenvolvedor Full Stack em Python e Analista de Sistemas.
-    
-  - 🚀 Estou em busca da minha primeira oportunidade na área de tecnologia, para aprender, crescer e colocar meus conhecimentos em prática.
-    
-  - 🎯 Tenho interesse em desenvolvimento web, automação e dados.
-    
-  - 📫 Como me encontrar:
+### 🎯 Objetivo de Carreira
 
+- Busco ativamente por oportunidades de **Estágio** ou posição **Júnior** para iniciar minha contribuição em projetos de desenvolvimento. Meu foco é na construção de soluções de software escaláveis e eficientes, aplicando meus conhecimentos em lógica de programação e arquitetura de sistemas.
+
+### 🎓 Formação & Expertise
+
+Minha formação está focada em oferecer uma base completa para atuar em todas as etapas do desenvolvimento de software:
+
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas (Estácio):** Aprofundamento em análise de requisitos, lógica de programação, design de sistemas e metodologias ágeis.
+* **Curso de Desenvolvedor Full Stack Python (EBAC):** Foco prático em desenvolvimento web, utilizando Python, Django, JavaScript, HTML, CSS e banco de dados.
+
+Ambos os cursos estão em andamento, reforçando meu compromisso em evoluir constantemente como profissional de tecnologia.
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim. </summary>
 
-  - 💬 Tenho 19 anos e moro no Brasil. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho conhecimento em Python, HTML, CSS, JavaScript e SQL. Gosto de aprender novas tecnologias e estou sempre buscando evoluir como desenvolvedor.
+  - 💬 Tenho 19 anos e moro no Brasil. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho adquirido conhecimento em Python, HTML, CSS, JavaScript e SQL. Gosto de aprender novas tecnologias e estou sempre buscando evoluir como desenvolvedor. Alem de estar fazendo curso na EBAC, curso esse de Desenvolvedor Full Stack em Python.
 
   - ⚡ No meu tempo livre, gosto de assistir filmes, ouvir musica e jogar — acredito que nossos hobbies ajudam a desenvolver criatividade, foco e uma forma única de enxergar e resolver problemas. 🎮📚🎬 \o/
 </details>
 
-###
+##
+### 🔗 Contato & Engajamento
 
 <!-- Links -->
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/joão-salesi-34a861383" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/jottascript" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a
+    <p align="center">
+  <a href="mailto:salesi.alvim@gmail.com" target="_blank">
+    <img
+      alt="E-mail"
+      title="E-mail"
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"
+    />
   </a>
 </div>
+<p align="center">
+  Pronto para colaborar em projetos inovadores. Ficarei feliz em conectar-me!
+</p>
 
-###
+##
     
-<!-- GithubStats -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaosalesi&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaosalesi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+### 📊 Performance e Atividade no GitHub
 
-###
+<p align="center">
+  <img
+    alt="GitHub Stats"
+    height="190"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=joaosalesi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img
+    alt="GitHub Top Languages"
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosalesi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
+<br clear="left" />
+<br/>
 
+---
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Imagem">
@@ -101,4 +121,11 @@
 </div>
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r1guv0z29ccsprhyhpfgbbbo8&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph-dark.svg" type="image/svg+xml">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph.svg" type="image/svg+xml">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
