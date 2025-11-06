@@ -34,7 +34,16 @@ Ambos os cursos estão em andamento, reforçando meu compromisso em evoluir cons
   - ⚡ No meu tempo livre, gosto de assistir filmes, ouvir musica e jogar — acredito que nossos hobbies ajudam a desenvolver criatividade, foco e uma forma única de enxergar e resolver problemas. 🎮📚🎬 \o/
 </details>
 
-##
+---
+
+<!-- Portfolio -->
+### Portfolio:
+- [Currículo](https://github.com/joaosalesi/Meu-curriculo)
+- [Projeto faculdade - Web Site de Agendamentos](https://github.com/joaosalesi/agendamentos-web)
+- [Projeto faculdade - App em Python Agendamentos](https://github.com/joaosalesi/Aplicativo-Python)
+
+---
+
 ### 🔗 Contato & Engajamento
 
 <!-- Links -->
