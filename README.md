@@ -30,8 +30,6 @@ Ambos os cursos estão em andamento, reforçando meu compromisso em evoluir cons
   <summary>👨‍💻 Mais sobre mim. </summary>
 
   - 💬 Tenho 19 anos e moro no Brasil. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho adquirido conhecimento em Python, HTML, CSS, JavaScript e SQL. Gosto de aprender novas tecnologias e estou sempre buscando evoluir como desenvolvedor. Alem de estar fazendo curso na EBAC, curso esse de Desenvolvedor Full Stack em Python.
-
-  - ⚡ No meu tempo livre, gosto de assistir filmes, ouvir musica e jogar — acredito que nossos hobbies ajudam a desenvolver criatividade, foco e uma forma única de enxergar e resolver problemas. 🎮📚🎬 \o/
 </details>
 
 ---
