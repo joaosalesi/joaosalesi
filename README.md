@@ -1,5 +1,5 @@
 <div>
-<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=João%20Salesi&fontSize=40&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20in%20Training&descSize=18&descAlignY=75&descAlign=50&theme=transparent"/>
+<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=João%20Salesi&fontSize=40&fontColor=FFFFFF&desc=Desenvolvedor%20em%20Formação%20&descSize=18&descAlignY=75&descAlign=50&theme=transparent"/>
 </div>
 
 <h1 align="center">print ("Olá, mundo!")</h1>
@@ -27,9 +27,8 @@ Quero participar de projetos reais, aprender com profissionais mais experientes 
 Minha formação está focada em desenvolver uma base sólida na área de programação e desenvolvimento de software.
 
 * Tecnólogo em **Análise e Desenvolvimento de Sistemas — Estácio**
-* Curso de **Desenvolvedor Full Stack Python — EBAC**
 
-Ambos estão em andamento e fazem parte do meu objetivo de evoluir constantemente na área de tecnologia.
+Atualmente curso a graduação e também estudo por conta própria diversos temas em tecnologia. Após a conclusão, pretendo ingressar no bacharelado em Ciência da Computação.
 
 <br>
 
@@ -38,8 +37,6 @@ Ambos estão em andamento e fazem parte do meu objetivo de evoluir constantement
 Tenho 20 anos e moro no Brasil. Atualmente estou estudando programação e desenvolvendo projetos para colocar em prática tudo o que venho aprendendo.
 
 Durante meus estudos tenho trabalhado principalmente com desenvolvimento web e programação com Python. Também gosto de aprender novas tecnologias e explorar ferramentas que possam melhorar minhas habilidades como desenvolvedor.
-
-Além da faculdade, também estou fazendo o curso de **Desenvolvedor Full Stack em Python pela EBAC**, onde estou aprofundando meus conhecimentos e desenvolvendo novos projetos.
 
 </details>
 
