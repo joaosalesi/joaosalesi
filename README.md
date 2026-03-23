@@ -24,19 +24,20 @@ Quero participar de projetos reais, aprender com profissionais mais experientes 
 
 ### Formação e Estudos
 
-Minha formação está focada em desenvolver uma base sólida na área de programação e desenvolvimento de software.
+Minha formação está focada no desenvolvimento de uma base sólida em programação e desenvolvimento de software.
 
-* Tecnólogo em **Análise e Desenvolvimento de Sistemas — Estácio**
+• Tecnólogo em Análise e Desenvolvimento de Sistemas — Estácio
+• Formação complementar em Desenvolvimento Full Stack com Python e Análise de Dados em Python
 
-Atualmente curso a graduação e também estudo por conta própria diversos temas em tecnologia. Após a conclusão, pretendo ingressar no bacharelado em Ciência da Computação.
+Atualmente curso a graduação e também estudo de forma contínua diversos temas na área de tecnologia, com foco em desenvolvimento back-end utilizando Python. Após a conclusão, pretendo ingressar no bacharelado em Ciência da Computação para aprofundar ainda mais meus conhecimentos.
 
 <br>
 
 <details>
 <summary>Mais sobre mim</summary>
-Tenho 20 anos e moro no Brasil. Atualmente estou estudando programação e desenvolvendo projetos para colocar em prática tudo o que venho aprendendo.
+Tenho 20 anos e moro no Brasil. Atualmente estou focado em estudar programação e desenvolver projetos práticos, com o objetivo de aplicar e consolidar os conhecimentos que venho adquirindo.
 
-Durante meus estudos tenho trabalhado principalmente com desenvolvimento web e programação com Python. Também gosto de aprender novas tecnologias e explorar ferramentas que possam melhorar minhas habilidades como desenvolvedor.
+Durante minha jornada de aprendizado, tenho trabalhado principalmente com desenvolvimento web e programação em Python, com interesse crescente na área de back-end. Busco constantemente aprender novas tecnologias e explorar ferramentas que contribuam para a evolução das minhas habilidades como desenvolvedor.
 
 </details>
 
